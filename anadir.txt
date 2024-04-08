@@ -3,3 +3,5 @@ añado un contenido
 prueba
 
 cambios para la prueba de github
+
+esto es un cambio de cursogit2
