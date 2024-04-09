@@ -7,3 +7,5 @@ cambios para la prueba de github
 esto es un cambio de cursogit2
 
 cambio hecho por compañeros.
+
+esto es una pequeña prueba.
